@@ -29,3 +29,7 @@ a:hover, a:focus, a:active {
     display: block;
     text-align: center;
 }
+
+textarea{
+    white-space: pre-wrap;
+}
