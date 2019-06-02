@@ -30,6 +30,6 @@ a:hover, a:focus, a:active {
     text-align: center;
 }
 
-textarea{
+.panel-body-b{
     white-space: pre-wrap;
 }
